@@ -41,5 +41,32 @@ const myFunction = function(){
     
 }
 
-console.log(typeof(anotherId));
+// console.log(typeof(anotherId));
+
+// ************* MEMORY *************
+
+// Stack - Primitive
+// Heap - Non-Primitive
+
+let myBotName = "groot_bot"
+anotherName = "rocket_bot"
+
+console.log(myBotName);
+console.log(anotherName);
+
+// let userOne = {
+//     email : "rocket@123",
+//     upi : "user@ybl"
+// }
+
+// let userTwo = userOne
+
+// userTwo.email = "groot@gmail.com"
+
+// console.log(userOne.email);
+// console.log(userTwo.email);
+
+
+
+
 
